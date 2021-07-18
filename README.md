@@ -23,7 +23,7 @@ Example
 
 ./@MaaBot/run
 ```
-# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/SourceBoss/37)
+# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/abudharrattunsi)
 ```sh
 ارسل للبوت : نقل ملكيه البوت
 ```
