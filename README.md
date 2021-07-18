@@ -1,10 +1,10 @@
-# <p align="center" style="color:#cb3349" > [<< Source Boss >> (Final Version)](https://telegram.me/TH3BS)
+# <p align="center" style="color:#cb3349" > [<< Source Boss >> (Final Version)](https://telegram.me/abudharrattunsi)
 
 <p align="center" style="color: #14635c;" > سورس الزعيم الاقوى والاحدث لحمايه المجموعات في التلكرام
 
 ***
 
-# <p align="center" style="color: #14635c;" > [التنصيب بكود واحد](https://t.me/TH3BS/4121)
+# <p align="center" style="color: #14635c;" > [التنصيب بكود واحد](https://t.me/abudharrattunsi)
 ```sh
 git clone https://github.com/TH3BG/BOSS.git ;cd BOSS;chmod +x ins;./ins
 ```
@@ -15,7 +15,7 @@ git clone https://github.com/TH3BG/BOSS.git ;cd BOSS;chmod +x ins;./ins
 » تدخل مـعلومـآتگ مـن توگن ومـعرفگ 
 » وسـوف يعمـل آلبوت بالسـگرين تلقآئيآ ...
 ```
-# <p align="center" style="color: #14635c;" > [كود الرون](https://t.me/TH3BS/5399)
+# <p align="center" style="color: #14635c;" > [كود الرون](https://t.me/abudharrattunsi)
 ```sh
 ./UserBot/run
 
