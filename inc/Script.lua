@@ -4082,29 +4082,31 @@ end
 
 if MsgText[1] == "سورس" or MsgText[1]=="السورس" then
 return [[
-Welcome To Source BoSs 
+Welcome To Source Rafdhe 
 
-- BOSS TEAM 
-┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-- [Source Channel](https://t.me/TH3BG)
 
-- [Source Install](https://t.me/TH3BG/4121)
 
-- [Changing ID Channel](https://t.me/Change_id/1)
 
-- [Explanation Channel](https://t.me/SourceBoss/1)
+عذرا هذا الأمر يخص مطور البوت 🌹
 
-┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
-- [Source Programmer](https://t.me/TH3BOSS)
 
-- [Twasl Bot Programmer](https://t.me/TH3BOSSBOT)
+إشترك في قناة ابو ذر التونسي فضلا وليس امرا
+
+https://youtube.com/channel/UC9xaftfC2N_Ky6bYzOOwisg
+    
+ 
+
+قناة التلي لابو ذر التونسي
+
+
+https://t.me/abudharrattunsi
 
 ]]
 end
 
 if MsgText[1] == "متجر الملفات" or MsgText[1]:lower() == "/store"  then
 if not msg.SudoBase then return "- هذا الامر يخص {المطور الاساسي} فقط  \n" end
-local Get_Files, res = https.request("https://th3bs.github.io/GetFiles.json")
+local Get_Files, res = https.request("https://th3bg.github.io/GetFiles.json")
 print(Get_Files)
 print(res)
 if res == 200 then
